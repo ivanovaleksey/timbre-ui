@@ -10,6 +10,8 @@ require (
 	github.com/asticode/go-astitools v0.0.0-20181027135708-933b5f686c38 // indirect
 	github.com/asticode/go-bindata v0.0.0-20151023091102-a0ff2567cfb7 // indirect
 	github.com/julienschmidt/httprouter v1.2.0 // indirect
+	github.com/mattn/go-colorable v0.0.9 // indirect
+	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9 // indirect
